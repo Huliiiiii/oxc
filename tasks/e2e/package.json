@@ -20,7 +20,7 @@
     "dayjs": "^1.11.13",
     "es-toolkit": "1.40.0",
     "fs-require": "^1.6.0",
-    "happy-dom": "^20.0.0",
+    "happy-dom": "^21.0.4",
     "immer": "^11.0.0",
     "jquery": "^3.7.1",
     "lit": "github:lit/dist#v3.3.1",
